@@ -1,0 +1,6 @@
+{
+  "name": "SMARTWASTE – Karnataka Waste Segregation & Tracking Platform",
+  "description": "Comprehensive municipal waste segregation, citizen reporting, pickup requests, and tracking platform for Karnataka communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

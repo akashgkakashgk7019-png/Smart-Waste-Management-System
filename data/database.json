@@ -1,0 +1,438 @@
+{
+  "users": [
+    {
+      "id": "usr_staff_1792917058075",
+      "name": "Suresh Kumar",
+      "email": "suresh.staff@smartwaste.org",
+      "mobile": "9845012399",
+      "passwordHash": "$2b$10$KD8k71U68gwk05.90g.F6OtWCrpEU8Y7h/IKMDVHJYrEjaaqxo3KW",
+      "role": "STAFF",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "address": "",
+      "staffBadgeNumber": "KA-BBMP-STF-01",
+      "points": 100,
+      "badges": [
+        "Field Conservancy Officer"
+      ],
+      "createdAt": "2026-10-25T08:30:58.075Z"
+    },
+    {
+      "id": "usr_admin_1792917068215",
+      "name": "Administrative Commissioner",
+      "email": "admin.commissioner@karnataka.gov.in",
+      "mobile": "9845088776",
+      "passwordHash": "$2b$10$2B9yokDuiMVZmggY3Fw2PORv2EdynrtF38ydXHEcb6OUBgol3YZa2",
+      "role": "ADMIN",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 35 - Aramane Nagar (Sadashivanagar)",
+      "address": "",
+      "points": 500,
+      "badges": [
+        "Municipal Overseer",
+        "State Coordinator"
+      ],
+      "createdAt": "2026-10-25T08:31:08.215Z"
+    },
+    {
+      "id": "usr_citizen_1792917095255",
+      "name": "Meera Rao",
+      "email": "meera.rao@gmail.com",
+      "mobile": "9886011223",
+      "passwordHash": "$2b$10$QNJnL/5nnX7a7mYD3MWv0uoqXMwyG/5kb4TIqL9/Hf6wM9SHuHP7K",
+      "role": "CITIZEN",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "address": "#55 8th Main",
+      "points": 50,
+      "badges": [
+        "Citizen Registrant"
+      ],
+      "createdAt": "2026-10-25T08:31:35.255Z"
+    },
+    {
+      "id": "usr_citizen_1792917401228",
+      "name": "G Akash",
+      "email": "akashgkakashgk7019@gmail.com",
+      "mobile": "9113606593",
+      "passwordHash": "$2b$10$7CORBARKVxRmpjUhXkamz.TRFScPO26mEoYGEdfSUUJT68UfotlOa",
+      "role": "CITIZEN",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "address": "Davanagere Government hostel mcc b block 6th main",
+      "points": 50,
+      "badges": [
+        "Citizen Registrant"
+      ],
+      "createdAt": "2026-10-25T08:36:41.228Z"
+    },
+    {
+      "id": "usr_citizen_1792917590963",
+      "name": "Pooja Bhat",
+      "email": "pooja.bhat@karnataka.org",
+      "mobile": "9880123456",
+      "passwordHash": "$2b$10$wTIsgC1IivyzfjcgZECQRuy2gntyi40qtoigFcfviSyASeM1BvT8O",
+      "role": "CITIZEN",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "address": "#405 Palm Grove",
+      "points": 50,
+      "badges": [
+        "Citizen Registrant"
+      ],
+      "createdAt": "2026-10-25T08:39:50.963Z"
+    },
+    {
+      "id": "usr_staff_1792917597056",
+      "name": "Venkatesh Murthy",
+      "email": "venkatesh.murthy@smartwaste.org",
+      "mobile": "9449887766",
+      "passwordHash": "$2b$10$UFKCO60gVycmfgI5/IUpP.T44FnAMeRp4nrDsAibxPnYGMnvtAKGy",
+      "role": "STAFF",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 45 - Malleshwaram",
+      "address": "",
+      "staffBadgeNumber": "BBMP-STF-208",
+      "points": 100,
+      "badges": [
+        "Field Conservancy Officer"
+      ],
+      "createdAt": "2026-10-25T08:39:57.056Z"
+    },
+    {
+      "id": "usr_citizen_1792918537936",
+      "name": "VIJAY",
+      "email": "vij@gmail.com",
+      "mobile": "7019167181",
+      "passwordHash": "$2b$10$hhI3x/CbeFTZfnJqhkjwCeHBCKx8N7ncemFj8mXiCQA5w5W243cau",
+      "role": "CITIZEN",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "address": "Davanagere Government hostel mcc b block 6th main",
+      "points": 70,
+      "badges": [
+        "Citizen Registrant",
+        "Active Reporter"
+      ],
+      "createdAt": "2026-10-25T08:55:37.936Z"
+    }
+  ],
+  "complaints": [
+    {
+      "id": "SW-2026-000001",
+      "citizenId": "usr_citizen_1792918537936",
+      "citizenName": "VIJAY",
+      "wasteCategory": "Biomedical Waste (Safe Guidance)",
+      "quantityKg": 18,
+      "description": "jjjjjjjjjjjjjjjjjjjjjjjjj",
+      "state": "Karnataka",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "city": "BBMP South Zone",
+      "ward": "Ward 151 - Koramangala",
+      "street": "rokings",
+      "lat": 12.9344,
+      "lng": 77.6245,
+      "mobile": "7019167181",
+      "attachments": [],
+      "status": "Submitted",
+      "statusHistory": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-25T08:56:13.581Z",
+          "actorId": "usr_citizen_1792918537936",
+          "actorName": "VIJAY",
+          "actorRole": "CITIZEN",
+          "notes": "Complaint registered by citizen"
+        }
+      ],
+      "createdAt": "2026-10-25T08:56:13.581Z",
+      "updatedAt": "2026-10-25T08:56:13.581Z",
+      "hobli": "Begur Hobli",
+      "quantityBracket": "11-25kg"
+    }
+  ],
+  "pickupRequests": [],
+  "wasteBins": [
+    {
+      "id": "BIN-BLR-01",
+      "name": "Koramangala BDA Complex Smart Bin",
+      "category": "Wet",
+      "district": "Bengaluru Urban",
+      "ward": "Ward 151 - Koramangala",
+      "address": "BDA Complex Main Entrance, Koramangala 4th Block",
+      "lat": 12.9348,
+      "lng": 77.6267,
+      "capacityLiters": 1100,
+      "currentFillLevel": 45,
+      "lastEmptied": "2026-03-14 07:30 AM",
+      "status": "Operational"
+    },
+    {
+      "id": "BIN-BLR-02",
+      "name": "Indiranagar 100ft Road Recycling Station",
+      "category": "Dry",
+      "district": "Bengaluru Urban",
+      "ward": "Ward 80 - Hoysala Nagar (Indiranagar)",
+      "address": "Near 12th Main Junction, 100ft Road",
+      "lat": 12.9719,
+      "lng": 77.6412,
+      "capacityLiters": 1100,
+      "currentFillLevel": 78,
+      "lastEmptied": "2026-03-13 06:45 PM",
+      "status": "Near Full"
+    },
+    {
+      "id": "BIN-BLR-03",
+      "name": "Malleshwaram 8th Cross E-Waste Drop Box",
+      "category": "E-Waste",
+      "district": "Bengaluru Urban",
+      "ward": "Ward 45 - Malleshwaram",
+      "address": "Opposite Malleshwaram Grounds, 8th Cross",
+      "lat": 13.0031,
+      "lng": 77.5694,
+      "capacityLiters": 500,
+      "currentFillLevel": 30,
+      "lastEmptied": "2026-03-10 11:00 AM",
+      "status": "Operational"
+    },
+    {
+      "id": "BIN-MYS-01",
+      "name": "Mysuru Kuvempunagar Civic Amenity Bin",
+      "category": "Dry",
+      "district": "Mysuru",
+      "ward": "Ward 24 - Kuvempunagar",
+      "address": "Near Kuvempunagar Post Office, Mysuru",
+      "lat": 12.2958,
+      "lng": 76.6394,
+      "capacityLiters": 800,
+      "currentFillLevel": 55,
+      "lastEmptied": "2026-03-14 06:15 AM",
+      "status": "Operational"
+    },
+    {
+      "id": "BIN-IXE-01",
+      "name": "Mangaluru Kadri Park Organic Bin",
+      "category": "Wet",
+      "district": "Mangaluru (Dakshina Kannada)",
+      "ward": "Ward 14 - Kadri South",
+      "address": "Kadri Park Main Gate, Mangaluru",
+      "lat": 12.8797,
+      "lng": 74.856,
+      "capacityLiters": 1000,
+      "currentFillLevel": 62,
+      "lastEmptied": "2026-03-14 08:00 AM",
+      "status": "Operational"
+    }
+  ],
+  "quizAttempts": [],
+  "notifications": [
+    {
+      "id": "NOTIF-1792918573581-usr_admin_1792917068215",
+      "userId": "usr_admin_1792917068215",
+      "title": "New Waste Report: SW-2026-000001",
+      "message": "Biomedical Waste (Safe Guidance) (18kg) reported in Bengaluru Urban, Ward 151 - Koramangala.",
+      "type": "complaint",
+      "link": "/admin",
+      "read": false,
+      "createdAt": "2026-10-25T08:56:13.581Z"
+    },
+    {
+      "id": "NOTIF-1792918573581",
+      "userId": "usr_citizen_1792918537936",
+      "title": "Complaint Registered: SW-2026-000001",
+      "message": "Your complaint for Biomedical Waste (Safe Guidance) has been successfully recorded and queued for municipal verification. You earned 20 Eco-Points!",
+      "type": "complaint",
+      "link": "/track?id=SW-2026-000001",
+      "read": false,
+      "createdAt": "2026-10-25T08:56:13.581Z"
+    },
+    {
+      "id": "NOTIF-1792918537936",
+      "userId": "usr_citizen_1792918537936",
+      "title": "Welcome to SMARTWASTE (CITIZEN)",
+      "message": "Thank you for joining Karnataka Cleanliness Initiative. You have received 50 Eco-Points for registering!",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:55:37.936Z"
+    },
+    {
+      "id": "NOTIF-1792917597056",
+      "userId": "usr_staff_1792917597056",
+      "title": "Welcome to SMARTWASTE (STAFF)",
+      "message": "Registered as Waste Collection Staff (Badge: BBMP-STF-208). Assigned to Ward 45 - Malleshwaram.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:39:57.056Z"
+    },
+    {
+      "id": "NOTIF-1792917590963",
+      "userId": "usr_citizen_1792917590963",
+      "title": "Welcome to SMARTWASTE (CITIZEN)",
+      "message": "Thank you for joining Karnataka Cleanliness Initiative. You have received 50 Eco-Points for registering!",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:39:50.963Z"
+    },
+    {
+      "id": "NOTIF-1792917401228",
+      "userId": "usr_citizen_1792917401228",
+      "title": "Welcome to SMARTWASTE (CITIZEN)",
+      "message": "Thank you for joining Karnataka Cleanliness Initiative. You have received 50 Eco-Points for registering!",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:36:41.228Z"
+    },
+    {
+      "id": "NOTIF-1792917095255",
+      "userId": "usr_citizen_1792917095255",
+      "title": "Welcome to SMARTWASTE (CITIZEN)",
+      "message": "Thank you for joining Karnataka Cleanliness Initiative. You have received 50 Eco-Points for registering!",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:31:35.255Z"
+    },
+    {
+      "id": "NOTIF-1792917068215",
+      "userId": "usr_admin_1792917068215",
+      "title": "Welcome to SMARTWASTE (ADMIN)",
+      "message": "Authorized as Karnataka Municipal Administrator. Clearance Level-5 active.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:31:08.215Z"
+    },
+    {
+      "id": "NOTIF-1792917058075",
+      "userId": "usr_staff_1792917058075",
+      "title": "Welcome to SMARTWASTE (STAFF)",
+      "message": "Registered as Waste Collection Staff (Badge: KA-BBMP-STF-01). Assigned to Ward 151 - Koramangala.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-25T08:30:58.075Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "AUDIT-1792918757324",
+      "actorId": "usr_citizen_1792918757324",
+      "actorName": "Pooja Hegde",
+      "actorRole": "CITIZEN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_citizen_1792918757324",
+      "details": "New CITIZEN registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:59:17.324Z"
+    },
+    {
+      "id": "AUDIT-1792918573581",
+      "actorId": "usr_citizen_1792918537936",
+      "actorName": "VIJAY",
+      "actorRole": "CITIZEN",
+      "action": "SUBMIT_COMPLAINT",
+      "entityType": "Complaint",
+      "entityId": "SW-2026-000001",
+      "details": "Citizen submitted complaint for Biomedical Waste (Safe Guidance) in Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:56:13.581Z"
+    },
+    {
+      "id": "AUDIT-1792918537936",
+      "actorId": "usr_citizen_1792918537936",
+      "actorName": "VIJAY",
+      "actorRole": "CITIZEN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_citizen_1792918537936",
+      "details": "New CITIZEN registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:55:37.936Z"
+    },
+    {
+      "id": "AUDIT-1792917597056",
+      "actorId": "usr_staff_1792917597056",
+      "actorName": "Venkatesh Murthy",
+      "actorRole": "STAFF",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_staff_1792917597056",
+      "details": "New STAFF registered from Bengaluru Urban, Ward 45 - Malleshwaram",
+      "timestamp": "2026-10-25T08:39:57.056Z"
+    },
+    {
+      "id": "AUDIT-1792917590963",
+      "actorId": "usr_citizen_1792917590963",
+      "actorName": "Pooja Bhat",
+      "actorRole": "CITIZEN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_citizen_1792917590963",
+      "details": "New CITIZEN registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:39:50.963Z"
+    },
+    {
+      "id": "AUDIT-1792917401228",
+      "actorId": "usr_citizen_1792917401228",
+      "actorName": "G Akash",
+      "actorRole": "CITIZEN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_citizen_1792917401228",
+      "details": "New CITIZEN registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:36:41.228Z"
+    },
+    {
+      "id": "AUDIT-1792917095255",
+      "actorId": "usr_citizen_1792917095255",
+      "actorName": "Meera Rao",
+      "actorRole": "CITIZEN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_citizen_1792917095255",
+      "details": "New CITIZEN registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:31:35.255Z"
+    },
+    {
+      "id": "AUDIT-1792917068215",
+      "actorId": "usr_admin_1792917068215",
+      "actorName": "Administrative Commissioner",
+      "actorRole": "ADMIN",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_admin_1792917068215",
+      "details": "New ADMIN registered from Bengaluru Urban, Ward 35 - Aramane Nagar (Sadashivanagar)",
+      "timestamp": "2026-10-25T08:31:08.215Z"
+    },
+    {
+      "id": "AUDIT-1792917058075",
+      "actorId": "usr_staff_1792917058075",
+      "actorName": "Suresh Kumar",
+      "actorRole": "STAFF",
+      "action": "REGISTER",
+      "entityType": "User",
+      "entityId": "usr_staff_1792917058075",
+      "details": "New STAFF registered from Bengaluru Urban, Ward 151 - Koramangala",
+      "timestamp": "2026-10-25T08:30:58.075Z"
+    }
+  ],
+  "payments": [],
+  "passwordResets": []
+}
